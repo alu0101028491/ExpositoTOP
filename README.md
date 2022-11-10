@@ -7,7 +7,7 @@ My first Maven project
 
 Validate the project is correct and all necessary information is available.
 ```bash
-mvn install
+mvn validate
 ```
 
 Install the package into the local repository, for use as a dependency in other projects locally.
