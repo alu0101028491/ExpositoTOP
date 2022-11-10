@@ -15,6 +15,11 @@ Install the package into the local repository, for use as a dependency in other 
 mvn install
 ```
 
+Compiles the project and leaves the result in target/classes
+```bash
+mvn compile
+```
+
 Take the compiled code and package it in its distributable format, such as a JAR.
 ```bash
 mvn package
